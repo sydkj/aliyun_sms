@@ -1,5 +1,5 @@
 {
-    "name": "aliyun_sms/api_sdk",
+    "name": "sydkj/aliyun_sms",
     "description": "Aliyun 大鱼 SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk", "短信发送"],
     "type": "library",
