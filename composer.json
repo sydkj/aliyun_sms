@@ -3,6 +3,7 @@
     "description": "Aliyun 大鱼 SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk", "短信发送"],
     "type": "library",
+    "minimum-stability": "dev",
     "license": "Apache-2.0",
     "homepage": "https://github.com/sydkj/aliyun_sms",
     "authors": [
