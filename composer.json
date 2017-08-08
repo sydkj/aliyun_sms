@@ -1,14 +1,14 @@
 {
-    "name": "aliyun_sms",
+    "name": "aliyun_sms/api_sdk",
     "description": "Aliyun 大鱼 SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk", "短信发送"],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://www.aliyun.com/product/sms",
+    "homepage": "https://github.com/sydkj/aliyun_sms",
     "authors": [
         {
-            "name": "Aliyuncs",
-            "homepage": "https://www.aliyun.com"
+            "name": "sydkj",
+            "homepage": "https://www.yjxz.com"
         }
     ],
     "require": {
