@@ -21,7 +21,6 @@ class DefaultProfile implements IClientProfile
 	
 	private function  __construct($regionId,$credential)
 	{
-		die("aaaa");
 	    self::$regionId = $regionId;
 	    self::$credential = $credential;
 	}
